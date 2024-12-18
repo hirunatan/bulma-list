@@ -37,7 +37,6 @@
     "sass": "^1.41.1"
   },
   "scripts": {
-    "build": "parcel build sass/bulma-list.scss --dist-dir css",
     "build-docs": "parcel build sass/bulma-list.scss --dist-dir docs/css",
     "start-docs": "parcel watch sass/bulma-list.scss --dist-dir docs/css"
   }
